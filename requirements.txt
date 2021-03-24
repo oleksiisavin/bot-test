@@ -19,7 +19,7 @@ traitlets==4.3.2
 tweepy==3.6.0
 urllib3==1.23
 virtualenv==16.7.10
-wcwidth==0.1.7
+wcwidth==0.2.5
 webencodings==0.5.1
 Werkzeug==1.0.1
 widgetsnbextension==3.4.2
