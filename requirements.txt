@@ -22,7 +22,7 @@ virtualenv==16.7.10
 wcwidth==0.1.7
 webencodings==0.5.1
 Werkzeug==1.0.1
-widgetsnbextension==3.4.2
+widgetsnbextension==3.5.1
 xlrd==2.0.1
 #One_More
 prompt-toolkit==2.0.10
